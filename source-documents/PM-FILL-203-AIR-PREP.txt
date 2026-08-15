@@ -1,0 +1,18 @@
+---
+document_id: PM-FILL-203-AIR-PREP
+title: Preventive maintenance standard for FILL-203 air preparation assembly
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: FILL-203
+document_type: preventive_maintenance
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+Scope: this standard covers the regulator, coalescing filter, drain float, pressure transducer PT-203A, and nozzle-bank valve assemblies for filler FILL-203.
+
+Weekly checks: inspect the air bowl for water accumulation, verify the drain float moves freely, confirm regulator setpoint is 58 PSI under load, and inspect valve assemblies VX-220-A through VX-220-D for audible leakage.
+
+Monthly checks: replace the coalescing filter element if the differential indicator is red or if any moisture is found downstream of the filter. Record the regulator loaded and unloaded pressure in the maintenance log.
+
+Acceptance criteria: pressure must remain between 56 and 60 PSI during a simulated fill cycle. The pressure trace may not show more than 3 PSI peak-to-peak oscillation while any nozzle bank is actuating.

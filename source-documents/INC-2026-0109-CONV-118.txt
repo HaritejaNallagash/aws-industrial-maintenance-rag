@@ -1,0 +1,18 @@
+---
+document_id: INC-2026-0109-CONV-118
+title: Incident report for CONV-118 motor overload trips
+site_id: PLANT-ATL-01
+production_line: LINE-2
+equipment_id: CONV-118
+document_type: incident_report
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+CONV-118 tripped on motor overload three times during first shift. The overload reset succeeded, but the motor casing temperature reached 78 C after the third restart.
+
+Maintenance found belt tension above specification and dried adhesive buildup on the tail pulley. The belt was tracking against the left side rail, causing case skew and elevated motor load.
+
+Corrective action: cleaned the tail pulley, reset take-up bolts to achieve 16 mm belt deflection, replaced damaged side rail wear strip, and observed the conveyor for 45 minutes without overload.
+
+Follow-up: add CONV-118 tail pulley cleaning to the Friday sanitation handoff when adhesive transfer is reported by quality inspection.

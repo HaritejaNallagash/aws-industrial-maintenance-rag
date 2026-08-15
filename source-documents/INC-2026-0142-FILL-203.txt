@@ -1,0 +1,18 @@
+---
+document_id: INC-2026-0142-FILL-203
+title: Incident report for repeated FILL-203 short-fill rejects
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: FILL-203
+document_type: incident_report
+severity: high
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+During the night shift on 2026-02-17, Line 3 produced 418 short-fill rejects in 22 minutes. The first alarm was FILL-203-PRES-LOW, followed by intermittent recovery without operator reset.
+
+The maintenance technician found water in the compressed-air bowl and a swollen seal on the VX-220-B valve assembly. The regulator diaphragm passed leakdown testing, and PT-203A matched a calibrated gauge within 1.5 PSI.
+
+Corrective action: the team replaced the coalescing filter element, drained the air header low point, installed valve assembly VX-220-B revision C, and ran a 30-minute verification at 240 bottles per minute with zero short fills.
+
+Preventive action: the air preparation bowl on FILL-203 must be inspected at the start of each shift during high-humidity months. Reliability engineering added a weekly compressed-air moisture trend review for Line 3.

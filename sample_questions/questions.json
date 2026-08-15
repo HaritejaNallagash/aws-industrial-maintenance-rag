@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What should a technician inspect when filler FILL-203 reports intermittent pressure loss?",
+    "filters": {
+      "equipment_id": "FILL-203"
+    }
+  },
+  {
+    "question": "Which part replaces the VX-220-B valve on FILL-203?",
+    "filters": {
+      "document_type": "spare_part_catalog"
+    }
+  },
+  {
+    "question": "What lockout steps apply before servicing palletizer PAL-410 lift motor?",
+    "filters": {
+      "equipment_id": "PAL-410"
+    }
+  },
+  {
+    "question": "Why did CONV-118 overload and how was it corrected?",
+    "filters": {
+      "equipment_id": "CONV-118"
+    }
+  }
+]

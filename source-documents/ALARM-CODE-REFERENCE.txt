@@ -1,0 +1,18 @@
+---
+document_id: ALARM-CODE-REFERENCE
+title: Common maintenance alarm code reference
+site_id: PLANT-ATL-01
+production_line: ALL
+equipment_id: MULTI
+document_type: alarm_reference
+severity: low
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+FILL-203-PRES-LOW: filler pressure below operating threshold. Check compressed-air moisture, inlet regulator stability, PT-203A signal integrity, and VX-220 valve assemblies.
+
+ADH-TMP-17: carton sealer nozzle block thermistor out of range. Check connector J17 for adhesive contamination and verify the nozzle block thermistor before replacing heater components.
+
+CONV-118-MTR-OL: conveyor motor overload. Check belt tension, tail pulley buildup, bearing temperature, and side rail contact.
+
+VIS-520-REJ-HIGH: vision reject rate above threshold. Check lens condition, strobe output, recipe code, and label guide position.

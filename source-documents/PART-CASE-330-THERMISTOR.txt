@@ -1,0 +1,16 @@
+---
+document_id: PART-CASE-330-THERMISTOR
+title: CASE-330 nozzle block thermistor replacement part
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: CASE-330
+document_type: spare_part_catalog
+severity: low
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+Part: NB-THE-17 nozzle block thermistor for CASE-330 adhesive system. The part includes a stainless probe, high-temperature lead, and connector keyed for J17.
+
+Compatibility: approved for CASE-330 nozzle block positions one through four. It is not compatible with the tank RTD or hose heater sensor.
+
+Installation note: clean adhesive residue from connector J17, route the lead away from the compression belt, and confirm the controller reads ambient temperature before heating the system.

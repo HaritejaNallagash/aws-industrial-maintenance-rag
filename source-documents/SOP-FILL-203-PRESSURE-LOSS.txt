@@ -1,0 +1,20 @@
+---
+document_id: SOP-FILL-203-PRESSURE-LOSS
+title: FILL-203 intermittent pressure loss troubleshooting procedure
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: FILL-203
+document_type: troubleshooting_guide
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+Symptom: filler FILL-203 reports intermittent pressure loss during the high-speed bottle fill cycle. Operators usually see pressure drift between 48 and 63 PSI, followed by short-fill rejects at the checkweigher.
+
+Immediate containment: place the filler in controlled stop, divert affected bottles to hold, and verify the guard doors remain latched. Do not bypass the pressure interlock while production is active.
+
+Inspection sequence: check the inlet regulator for oscillation, inspect the VX-220 valve assembly for seal swelling, verify that the air preparation bowl is not saturated, and confirm that the pressure transducer PT-203A cable is fully seated.
+
+Known fix from reliability engineering: if pressure recovers after cycling the air preparation drain, replace the coalescing filter element and inspect the drain float. If the pressure drops only when nozzle bank B actuates, replace valve assembly VX-220-B and retest the bank.
+
+Escalation: if the pressure reading remains unstable after regulator and valve checks, open a controls work order to test analog input card AI-17 and compare PT-203A against a calibrated mechanical gauge.

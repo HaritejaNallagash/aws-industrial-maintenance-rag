@@ -1,0 +1,18 @@
+---
+document_id: PART-VX-220-VALVE-ASSEMBLY
+title: Spare parts specification for VX-220 pneumatic valve assembly
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: FILL-203
+document_type: spare_part_catalog
+severity: low
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+Part: VX-220 pneumatic valve assembly. Approved revision for FILL-203 is VX-220 revision C. Revision B is allowed only as an emergency temporary replacement for no more than 72 operating hours.
+
+Compatible positions: nozzle-bank valves VX-220-A, VX-220-B, VX-220-C, and VX-220-D. The same assembly is not approved for the carton sealer adhesive solenoid manifold.
+
+Required consumables: food-grade pneumatic seal kit SK-220-C, thread sealant TS-19, and replacement push-to-connect fittings if tubing shows scoring.
+
+Post-installation check: run manual actuation for the affected nozzle bank, verify no audible leakage, and perform a 10-minute pressure stability test before returning the filler to production.

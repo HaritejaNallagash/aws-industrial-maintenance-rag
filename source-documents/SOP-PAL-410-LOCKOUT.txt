@@ -1,0 +1,18 @@
+---
+document_id: SOP-PAL-410-LOCKOUT
+title: Lockout procedure before servicing palletizer PAL-410 lift motor
+site_id: PLANT-ATL-01
+production_line: LINE-4
+equipment_id: PAL-410
+document_type: safety_procedure
+severity: critical
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+Before servicing the PAL-410 lift motor, stop the palletizer through the operator panel and wait until the carriage is fully lowered onto mechanical stops.
+
+Apply lockout to the main electrical disconnect DS-PAL-410, the 480V motor starter cabinet, and the pneumatic dump valve feeding the clamp assembly. Verify zero energy with a properly rated meter.
+
+Stored energy warning: the lift carriage can drift if the brake is released without support. Install the red mechanical safety pins on both carriage rails before removing the motor coupling guard.
+
+Return-to-service check: remove tools, verify guards are installed, remove locks according to the site energy-control policy, jog the lift in maintenance mode, and observe one empty pallet cycle.

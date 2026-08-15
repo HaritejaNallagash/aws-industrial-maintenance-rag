@@ -1,0 +1,18 @@
+---
+document_id: SOP-CASE-330-ADHESIVE-TEMP
+title: Carton sealer CASE-330 adhesive temperature troubleshooting
+site_id: PLANT-ATL-01
+production_line: LINE-3
+equipment_id: CASE-330
+document_type: troubleshooting_guide
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+CASE-330 creates weak carton seals when adhesive temperature falls below 168 C at the nozzle block. Quality may report open flaps or stringing adhesive at the compression belt exit.
+
+Inspection sequence: verify tank temperature, hose temperature, nozzle block temperature, adhesive level, and compression belt pressure. A low nozzle temperature with normal tank temperature usually indicates a hose heater fault.
+
+Known fault code ADH-TMP-17 means the nozzle block thermistor is out of range. Inspect connector J17 for adhesive contamination before replacing the thermistor.
+
+Return-to-service: purge the nozzle block after temperature recovery and validate seal strength on ten cartons from each lane.

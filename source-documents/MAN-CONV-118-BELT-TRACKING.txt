@@ -1,0 +1,18 @@
+---
+document_id: MAN-CONV-118-BELT-TRACKING
+title: Conveyor CONV-118 belt tracking and tension manual section
+site_id: PLANT-ATL-01
+production_line: LINE-2
+equipment_id: CONV-118
+document_type: equipment_manual
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+CONV-118 transfers filled cases from the case erector to the checkweigher. Belt tracking problems usually appear as left-edge fray, side rail rub marks, or product skew before the checkweigher infeed.
+
+Tracking adjustment: verify the frame is square, clean debris from the tail pulley, and adjust the take-up bolts in quarter-turn increments. Run the belt for five minutes between adjustments.
+
+Tension target: the belt should deflect 14 to 18 mm at midspan under moderate thumb pressure. Over-tension increases bearing temperature and can cause motor overload trips.
+
+Do not compensate for damaged lacing by over-tightening the belt. Replace the belt if more than two lacing hooks are missing or if the belt edge has exposed reinforcement cords.

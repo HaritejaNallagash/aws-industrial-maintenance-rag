@@ -1,0 +1,18 @@
+---
+document_id: PM-PUMP-707-SEAL
+title: CIP pump PUMP-707 seal inspection procedure
+site_id: PLANT-ATL-01
+production_line: UTILITY
+equipment_id: PUMP-707
+document_type: preventive_maintenance
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+PUMP-707 circulates cleaning solution through the filler clean-in-place loop. A failing mechanical seal can contaminate the motor base and reduce CIP flow rate.
+
+Inspection: lock out the pump starter, verify zero pressure, inspect the seal weep port, check motor base staining, and rotate the shaft by hand for roughness.
+
+Replacement trigger: replace the seal if the weep port drips more than one drop per minute, if caustic residue is visible on the base, or if vibration exceeds the route limit.
+
+After replacement, run a water flush, confirm no leakage for 15 minutes, and document the seal lot number in the maintenance record.

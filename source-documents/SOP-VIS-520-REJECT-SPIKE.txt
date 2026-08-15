@@ -1,0 +1,18 @@
+---
+document_id: SOP-VIS-520-REJECT-SPIKE
+title: Vision station VIS-520 false reject spike response
+site_id: PLANT-ATL-01
+production_line: LINE-5
+equipment_id: VIS-520
+document_type: troubleshooting_guide
+severity: medium
+effective_date: 2026-03-01
+source_system: maintenance-engineering
+---
+VIS-520 may reject acceptable labels when the camera lens has condensation, the strobe intensity drifts, or the label presentation angle changes at the infeed guide.
+
+Response sequence: clean the lens with approved wipes, inspect the strobe cable, verify recipe code against the production order, and run the golden-sample validation card.
+
+If false rejects continue after cleaning, compare the current brightness histogram to the reference image. A shift greater than 12 percent requires strobe recalibration by controls.
+
+Do not lower inspection sensitivity without quality approval. Record the reject count before and after each action.
