@@ -194,7 +194,7 @@ Suggested fast setup:
 1. open IAM
 2. create a role for `Lambda`
 3. name it `industrial-maintenance-rag-manual-role`
-4. attach `AdministratorAccess`
+4. attach only the IAM permissions required for S3, S3 Vectors, Bedrock, CloudWatch Logs, and Lambda execution
 
 This keeps setup simple and avoids permission issues during initial deployment.
 
